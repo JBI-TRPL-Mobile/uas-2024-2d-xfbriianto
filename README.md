@@ -1,5 +1,6 @@
 # Tugas Akhir Flutter App Slicing
 # 2170-AvailDwiFebrianto-2D TRPL
+======
 
 ## Tentang Proyek
 Halo Dosen tercinta! 👋
@@ -78,6 +79,7 @@ Profile Screen
 ## Catatan Akhir
 - Semoga dosen nggak lupa ngasih nilai **A+**, ya! 😊
 - Kalau ada bug, itu adalah fitur tak terduga yang akan diperbaiki di iterasi selanjutnya (alias maaf ya, hehehe).
+
 # uas-2024-2D-AvailDwiFebrianto
 # uas-2024-avail
-# uas-2024-avail
+# uas-2024-avai
